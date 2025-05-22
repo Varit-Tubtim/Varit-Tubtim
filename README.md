@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I recently graduated with a degree in Computer Science from King Mongkut's Institute of Technology Ladkrabang.<br>🌍 I'm based in Samut Prakan, Thailand<br>✉️ You can contact me at varit.tubtim@gmail.com
+I recently graduated with a degree in Computer Science from King Mongkut's Institute of Technology Ladkrabang.<br><br>🌍 I'm based in Samut Prakan, Thailand<br>✉️ You can contact me at varit.tubtim@gmail.com
 
 # 💻 Tech Stack:
 
